@@ -3,7 +3,7 @@ description: Adds a friends system to Pocketmine!
 author: BalAnce
 version: 0.3
 main: friends\main
-api: 3.0.0-ALPHA12
+api: 3.11.0
 commands:
  friend:
   description: Main friends command!
